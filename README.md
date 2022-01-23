@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhadrich209
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m currently learning advanced javascript and react
 - 📫 How to reach me : 
        email: ahmedhadrich29@gmail.com
 
