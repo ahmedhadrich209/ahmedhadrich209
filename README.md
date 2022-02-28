@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and react
 - 📫 How to reach me : 
-       email: ahmedhadrich29@gmail.com
+        ahmedhadrich29@gmail.com
 
 <!---
 ahmedhadrich209/ahmedhadrich209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
